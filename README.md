@@ -1,1 +1,2 @@
-# Care-Caddy
+# Care-CaddyCare
+Caddy is an online medicine shopping platform designed especially for patients who take medicines for lifelong conditions. The website allows users to browse and order medicines easily, track expiry dates, receive refill reminders, and connect with healthcare agencies for monitoring support. Care Caddy focuses on timely home delivery, medicine safety, and continuous care management in a simple and user-friendly way.
